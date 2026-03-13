@@ -1,0 +1,43 @@
+clause_text,clause_type,risk_level
+"Notwithstanding any other provision, liability for breach of confidentiality shall be unlimited. This provision shall survive termination.",uncapped-liability,High
+Any attempted assignment without consent shall be null and void and constitute a material breach.,anti-assignment,High
+The Contractor accepts unlimited liability for any damages arising from gross negligence or willful misconduct.,uncapped-liability,High
+"Notwithstanding the foregoing, this agreement grants exclusive licensing rights, and no similar licenses shall be granted to third parties.",exclusive-deal,High
+"Pursuant to Section 5, the distributor is granted exclusive rights to sell the products within the territory, and the manufacturer shall not appoint any other distributors.",exclusive-deal,High
+"Notwithstanding the foregoing, failure to enforce any provision shall not constitute a waiver of the right to enforce it later.",waiver,Low
+"Notwithstanding the foregoing, the rights and obligations under this agreement are personal and may not be delegated or assigned.",anti-assignment,High
+"The Contractor assigns all rights, title, and interest in any work product to the Company.",ip-ownership,Medium
+The parties agree that New York law shall govern all disputes arising under this Agreement. This provision shall survive termination.,governing-law,Medium
+"Notice shall be deemed given when delivered personally, or 3 business days after mailing by certified mail. This provision shall survive termination.",notice,Low
+Pre-existing IP remains with its original owner; new IP developed jointly shall be co-owned.,ip-ownership,Medium
+"Upon expiration, this contract will renew on a month-to-month basis under the same terms and conditions. This provision shall survive termination.",renewal-term,Medium
+Amendments must be in writing and expressly state that they amend this Agreement. This provision shall survive termination.,amendments,Low
+"Pursuant to Section 5, execution by electronic signature and in counterparts is permitted and binding.",counterparts,Low
+This contract is subject to English law and the exclusive jurisdiction of the English courts.,governing-law,Medium
+Waivers must be in writing and signed by the waiving party to be effective. This provision shall survive termination.,waiver,Low
+"Pursuant to Section 5, neither party may assign or transfer this agreement without the prior written consent of the other party, which may be withheld in its sole discretion.",anti-assignment,High
+"Pursuant to Section 5, this agreement constitutes the entire understanding between the parties and supersedes all prior negotiations.",entire-agreement,Low
+"The parties may sign this document in multiple counterparts, and all together constitute one agreement. This provision shall survive termination.",counterparts,Low
+Either party may terminate this Agreement for any reason upon 30 days' written notice.,termination-for-convenience,Medium
+"This document represents the complete agreement and replaces all previous discussions, whether oral or written.",entire-agreement,Low
+"Notwithstanding the foregoing, the exclusivity provision requires company to source 100% of its requirements from supplier during the term.",exclusive-deal,High
+The entire agreement clause confirms that no other representations have induced either party to enter this contract. This provision shall survive termination.,entire-agreement,Low
+"This Agreement may be executed in counterparts, each of which shall be deemed an original. This provision shall survive termination.",counterparts,Low
+The Employee agrees not to engage in any competitive business activities within a 50-mile radius for a period of 2 years following termination. This provision shall survive termination.,non-compete,High
+"Pursuant to Section 5, contractor shall not directly or indirectly compete with the company in any manner during the term of this agreement and for 3 years thereafter.",non-compete,High
+"Pursuant to Section 5, the client reserves the right to terminate this engagement at its convenience with 60 days' prior notice.",termination-for-convenience,Medium
+The Contractor agrees not to recruit or hire any personnel from the Company for 3 years after the end of this engagement.,non-solicit,High
+"Notwithstanding the foregoing, employee shall not solicit any customers, clients, or employees of the company for a period of 2 years following termination.",non-solicit,High
+"Pursuant to Section 5, all intellectual property created during the engagement shall be the sole property of the client.",ip-ownership,Medium
+"Notwithstanding the foregoing, this agreement shall automatically renew for successive one-year periods unless terminated by either party with 60 days' notice.",renewal-term,Medium
+"Notwithstanding the foregoing, notwithstanding other termination provisions, company may end this contract without cause upon 90 days' notice.",termination-for-convenience,Medium
+The indemnifying party's liability under this Agreement shall not be subject to any cap or limitation.,uncapped-liability,High
+"Notwithstanding the foregoing, no waiver of any breach shall be deemed a waiver of any subsequent breach of the same or different kind.",waiver,Low
+This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware. This provision shall survive termination.,governing-law,Medium
+"Notwithstanding the foregoing, seller shall not directly or indirectly solicit business from any of buyer's customers for 24 months post-closing.",non-solicit,High
+"Notwithstanding the foregoing, this agreement may only be amended by a written instrument signed by both parties.",amendments,Low
+"Notwithstanding the foregoing, all notices under this agreement shall be in writing and delivered to the addresses set forth herein.",notice,Low
+The Seller covenants that it will not engage in any business that competes with the Buyer's business for 5 years post-closing.,non-compete,High
+No modification of this contract shall be valid unless executed in writing by authorized representatives.,amendments,Low
+Electronic notice via email to the designated contact shall be considered valid delivery.,notice,Low
+"Notwithstanding the foregoing, the initial term shall be followed by automatic renewals unless written notice is provided 90 days before expiration.",renewal-term,Medium
